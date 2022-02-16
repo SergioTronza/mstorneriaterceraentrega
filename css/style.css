@@ -1,21 +1,15 @@
-.fondo{
-    background-color: #EDE0D4;
-}
+.text-center .col:hover {
+  transform: scale(1.2);
+  transition-property: all;
+  transition-duration: 1s; }
 
-.fondoDos{
-    background-color: #E6CCB2;
-}
+.fondoDos {
+  font-family: sans-serif;
+  font-size: 15px;
+  background-color: #E6CCB2; }
 
-.fondoTres{
-    background-color: #B08968;
-}
+.fondo {
+  background-color: #EDE0D4; }
 
-.carro{
-    margin: 0 auto;
-}
-
-.botones:hover{
-    transform: scale(1.2);
-    transition-property: all;
-    transition-duration: 1s;
-}    
+.carro {
+  margin: 0 auto; }
